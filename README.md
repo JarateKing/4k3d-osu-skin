@@ -10,8 +10,11 @@ An experiment with getting perspective added to notes in mania, similar to games
 
 ## Notes
 Only skinned for osu!mania
+
 Intended for 1366x768
+
 Requires speed set to 30
+
 Only functional for 4k
 
 ## Issues
